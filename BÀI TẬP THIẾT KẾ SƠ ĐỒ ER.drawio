@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5">
   <diagram name="Trang-1" id="7et00IJPyykRwGStqNOX">
-    <mxGraphModel dx="961" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="708" dy="312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-jooC6iz6s0Kodkt8hwe-79" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="429.5" width="95" height="52" as="geometry" />
+        <mxCell id="-jooC6iz6s0Kodkt8hwe-134" value="Tên thuốc" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="531.5" y="83" width="76" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Y5PChdRtXyHQ076jzOGp-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Thuốc&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="446" y="139" width="120" height="60" as="geometry" />
@@ -17,16 +17,10 @@
           <mxGeometry x="160" y="139" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YLImaf5WuprA8U4HHsAZ-28" value="&lt;u&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Mã thuốc&lt;/font&gt;&lt;/font&gt;&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="58" width="71" height="30" as="geometry" />
+          <mxGeometry x="482.5" y="55" width="71" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YLImaf5WuprA8U4HHsAZ-29" value="Tên thuốc" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="534" y="88" width="71" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="YLImaf5WuprA8U4HHsAZ-39" value="Tên thuốc" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="211" y="568" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="YLImaf5WuprA8U4HHsAZ-45" value="Mã bệnh nhân" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="82.5" y="435.5" width="90" height="40" as="geometry" />
+          <mxGeometry x="534" y="85" width="71" height="38" as="geometry" />
         </mxCell>
         <mxCell id="YLImaf5WuprA8U4HHsAZ-48" value="Ngày kê đơn" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="127.5" y="518" width="80" height="40" as="geometry" />
@@ -209,9 +203,9 @@
             <mxPoint x="260" y="478" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-jooC6iz6s0Kodkt8hwe-77" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YLImaf5WuprA8U4HHsAZ-45" target="YLImaf5WuprA8U4HHsAZ-37">
+        <mxCell id="-jooC6iz6s0Kodkt8hwe-77" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-jooC6iz6s0Kodkt8hwe-135" target="YLImaf5WuprA8U4HHsAZ-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="538" as="sourcePoint" />
+            <mxPoint x="172.5" y="455.5" as="sourcePoint" />
             <mxPoint x="260" y="488" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -219,12 +213,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="568" as="sourcePoint" />
             <mxPoint x="270" y="518" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-jooC6iz6s0Kodkt8hwe-81" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YLImaf5WuprA8U4HHsAZ-39" target="YLImaf5WuprA8U4HHsAZ-37">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="568" as="sourcePoint" />
-            <mxPoint x="310" y="518" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-jooC6iz6s0Kodkt8hwe-82" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YLImaf5WuprA8U4HHsAZ-52" target="YLImaf5WuprA8U4HHsAZ-37">
@@ -438,6 +426,21 @@
         </mxCell>
         <mxCell id="-jooC6iz6s0Kodkt8hwe-133" value="Quận" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="220" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-jooC6iz6s0Kodkt8hwe-135" value="Mã bệnh nhân" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="440" width="76" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="-jooC6iz6s0Kodkt8hwe-137" value="Tên thuốc" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="197.5" y="573" width="76" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="-jooC6iz6s0Kodkt8hwe-138" value="Loại thuốc" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="575" width="71" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="-jooC6iz6s0Kodkt8hwe-139" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-jooC6iz6s0Kodkt8hwe-137" target="YLImaf5WuprA8U4HHsAZ-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="600" as="sourcePoint" />
+            <mxPoint x="290" y="550" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
