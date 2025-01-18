@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6" pages="3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2388" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2385" dy="1395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rpeQgq2oQJ6F1NOqAaej-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rpeQgq2oQJ6F1NOqAaej-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="370" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gOfcM73kA9VS2sifZ0Uw-1" value="Giáo sư" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
@@ -34,7 +34,7 @@
             <mxPoint x="240" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gOfcM73kA9VS2sifZ0Uw-7" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Bậc&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;dashed=1;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="gOfcM73kA9VS2sifZ0Uw-7" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Bậc&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="220" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gOfcM73kA9VS2sifZ0Uw-8" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Chuyên môn&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
@@ -309,10 +309,10 @@
             <mxPoint x="640" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rpeQgq2oQJ6F1NOqAaej-1" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="rpeQgq2oQJ6F1NOqAaej-1" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="775" y="548" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rpeQgq2oQJ6F1NOqAaej-2" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="rpeQgq2oQJ6F1NOqAaej-2" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="325" y="298" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
